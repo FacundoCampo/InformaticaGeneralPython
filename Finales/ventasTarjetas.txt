@@ -1,0 +1,9 @@
+1,Enero,21
+8,Febrero,32
+3,Enero,50
+8,Junio,18
+1,Junio,56
+6,Diciembre,94
+8,Febrero,20
+2,Octubre,56
+7,Enero,90
